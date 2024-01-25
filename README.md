@@ -20,7 +20,7 @@ After cleaning the data, this dataset has 234,429 rows and 26 columns (234,429 r
 
 ---
 # Data Cleaning
-<iframe src="assets/table.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/table2.html" width=800 height=600 frameBorder=0></iframe>
 
 
 
