@@ -1,4 +1,4 @@
-**Authors: Joey Kaminsky and Ishaan Chadha**
+**Author: Ishaan Chadha**
 
 ---
 # Introduction
