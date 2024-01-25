@@ -1,4 +1,3 @@
-TRIAL
 **Author: Ishaan Chadha**
 
 ---
