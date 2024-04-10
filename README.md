@@ -22,7 +22,6 @@ After cleaning the data, this dataset has 234,429 rows and 26 columns (234,429 r
 <iframe src="assets/table2.html" width=800 height=600 frameBorder=0></iframe>
 
 
-
 There is a list of data cleaning steps that were followed in order to make the analysis of the relationship between the number of steps in a recipe and its average rating easier and more accurate.
 
 * **Merging Dataframes:**
